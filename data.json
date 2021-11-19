@@ -1,0 +1,68 @@
+{
+	"userBookings": [
+		{
+			"cancelled": false,
+			"_id": "6066037c30473c405f63a2c8",
+			"booking": {
+				"id": "6075f4dcb42094000e8e4752",
+				"name": "Meeting",
+				"duration": 15
+			},
+			"name": "John Doe",
+			"email": "john.doe@gmail.com",
+			"phone": "0911331345",
+			"note": "Žiadne poznámky",
+			"dueTime": "14/00:22/11/2021",
+			"dueDate": "22/11/2021",
+			"calendar": "607587d3165f65000e1a4eab"
+		},
+		{
+			"cancelled": false,
+			"_id": "606aef509849d737227d72c7",
+			"booking": {
+				"id": "6075f4dcb42094000e8e4442",
+				"name": "Important meeting",
+				"duration": 30
+			},
+			"name": "Leanne Graham",
+			"email": "Sincere@april.biz",
+			"phone": "0911331345",
+			"note": "Žiadne poznámky",
+			"dueTime": "08/15:22/11/2021",
+			"dueDate": "22/11/2021",
+			"calendar": "607587d3165f65000e1a4eab"
+		},
+		{
+			"cancelled": true,
+			"_id": "6066037c30473c405f63a2c8",
+			"booking": {
+				"id": "6075f4dcb42094000e8e4752",
+				"name": "Meeting",
+				"duration": 15
+			},
+			"name": "Ervin Howell",
+			"email": "Shanna@melissa.tv",
+			"phone": "0911331345",
+			"note": "Žiadne poznámky",
+			"dueTime": "12/30:23/11/2021",
+			"dueDate": "23/11/2021",
+			"calendar": "607587d3165f65000e1a4eab"
+		},
+		{
+			"cancelled": false,
+			"_id": "606aef509849d737227d72c7",
+			"booking": {
+				"id": "6075f4dcb42094000e8e4442",
+				"name": "Important meeting",
+				"duration": 30
+			},
+			"name": "Clementine Bauch",
+			"email": "athan@yesenia.net",
+			"phone": "0911331345",
+			"note": "Žiadne poznámky",
+			"dueTime": "15/45:23/11/2021",
+			"dueDate": "23/11/2021",
+			"calendar": "607587d3165f65000e1a4eab"
+		}
+	]
+}
